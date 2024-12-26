@@ -1,2 +1,1 @@
-[service]
-path = "backend/mrwve-backend"
+web: node server.js
